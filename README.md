@@ -58,14 +58,17 @@ This work provides stakeholders with interactive dashboards that make it easier 
 ## Deliverables
 - SQL queries used for KPI and trend analysis  
 - Power BI dashboards for interactive performance reporting
-- 
+
 Below are two key views from the Power BI dashboard that support the analysis described above:
 
 This dashboard provides an overview of key sales KPIs, revenue trends over time, and regional performance, helping support high-level sales monitoring and comparison.
 
 <img width="1359" height="799" src="https://github.com/user-attachments/assets/a503a7f6-2c16-4314-a8e2-01986e4e0191" />
 
-This view focuses on market share and regional revenue distribution, making it easier to compare growth patterns and identify leading and underperforming segments.
+
+
+This view highlights market share and regional revenue distribution, helping compare performance across regions and spot segments that are leading versus those that may need closer attention.
+
 
 <img width="1282" height="785" src="https://github.com/user-attachments/assets/e6aa4412-afd3-42df-bf21-5e3b5d1c24ff" />
 
